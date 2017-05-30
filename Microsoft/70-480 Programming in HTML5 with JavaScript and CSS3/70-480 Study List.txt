@@ -1,0 +1,43 @@
+Study List
+
+1.
+HTML 5 Semantic Markup
+Selecting items in the DOM
+Multimedia - video and audio tags
+Graphics with canvas and SVG
+Positioning, transforming
+HTML5 APIs - storage, AppCache, GeoLocation
+Objects and Classes in Javascript
+
+2.
+Controls structures - especially looping structures
+Array functions
+Events and event handling
+Mouse and keyboard events
+Drag and drop functionality
+Custom Events
+Exception handling
+Implementing callbacks
+jquery and Ajax
+WebSockets
+WebWorkers (multithreading)
+
+3.
+Validation HTML5 Elements
+Validation using javascript
+Regular expressions
+JSON and XML using web services
+XMLHTTPRequest object
+Serialise/deserialise JSON
+Serialise/deserialise Binary
+
+4. 
+CSS3 Style
+CSS3 Box Properties
+Flexible Content Layouts
+CSS3 Animations
+Media queries
+JQuery - CSS Selectors
+HTML and CSS structuring
+
+
