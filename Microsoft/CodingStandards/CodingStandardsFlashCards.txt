@@ -1,0 +1,37 @@
+PascalCase,How should fields be named?
+No,Should tables be prefixed with tbl?
+No,Should views be prefixed with vw?
+Yes,Should dimensions be prefixed with dim_?
+Yes,Should fact tables be prefixed with fct?
+Yes,Should bridge tables be prefixed with brg_?
+No,Can you have spaces in field names?
+CIX_,What is the prefix for clustered indexes?
+UIX_,What is the prefix for unique indexes?
+IX_,What is the prefix for non-clustered indexes?
+FK_ or PK_,How should keys be prefixed?
+Primary keys should include their parent object name and the first column in the key (e.g. PK_Table1_Column1),How should primary keys be named?
+Foreign keys should reference the object they reside within and the object they make reference to (e.g. FK_Table1_Table2),How should foreign keys be named?
+using AS,How should you define labels in the SELECT list?
+No,Should you use hungarian notation in variable names?
+start of the line,Where should commas appear?
+Yes - always,Should insert statements list the fields to be inserted to?
+No - never,Should you create temporary tables using SELECT INTO?
+Why you are doing something,What are minor comments for?
+Overview of what the aim is of the code block,What are major comments for?
+New Report Procedure template,Common snippets - nrp
+New System Procedure template,Common snippets - nsp
+Insert Change History,Common snippets - ich
+Insert Comment Block,Common snippets - icb
+Create Temporary Table,Common snippets - ctt
+Report,What word is banned from the title of all reports?
+the report's title including spaces,What should the filename of the report be?
+Must start with the name of the person that requested the report and their business area (e.g. Req By: John Smith Bus. Area: Tech Serv),How should the description property be structured in reports?
+Should start with tab and then PascalCase description e.g. tabMonthSummary,How should tablixes be named?
+In points to ensure alignment with Excel,How should tablixes have their cell width specified?
+chtPascalCase,How should charts be named?
+listPascalCase,How should lists be named?
+...signed off by the MI & Reporting manager. ,All reports released to Report Manager must have either a complete report request or specification document unless ....
+Report Request Form,What document exists to facilitate a quick route to development while ensuring some degree of documentation exists for the finished article? (RRF)
+Detailed Report Specification,Documentation that must be produced either in advance or by the developer? (DRS)
+Process Manual,What document must be produced to detail the granular steps the reporting team go through? (PM)
+

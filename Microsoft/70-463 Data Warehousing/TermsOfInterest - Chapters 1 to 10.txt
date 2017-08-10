@@ -1,0 +1,26 @@
+Additivity of Measures
+Inferred Member
+Indexed Views
+Batch Processing
+Data Lineage Functions
+Import/Export Wizard
+SMTP Connection Manager
+Data Flow Task
+Cache connection manager
+Data Source Adapters
+Blocking Transformations
+Variable Scope
+Parameters
+Data Flow Components
+Using Expressions
+Slowly Changing Dimension Transformation
+CDC Source Process Modes
+Transaction Isolation Levels
+Checkpoints
+Event Handling
+Package Properties
+Build Configurations
+Audit Transformation
+Package Templates
+Log Configuration Templates
+Column Store Index and Partitioning
